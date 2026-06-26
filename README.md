@@ -1,6 +1,8 @@
 # AI-Claims-Copilot-RAG-Powered-Insurance-Policy-Assistant
 Built an end-to-end Retrieval-Augmented Generation (RAG) solution that enables users to query insurance and healthcare policy documents using natural language.
 
+Technologies: Python, Streamlit, ChromaDB, SentenceTransformers, Ollama, PDF Processing
+
 Key features include:
 
 PDF document ingestion
